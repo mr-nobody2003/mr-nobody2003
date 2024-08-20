@@ -1,5 +1,5 @@
 <h1 align="center">Hi Viewers 👋, I'm Prabin Barik</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-nobody2003&label=Profile%20views&color=1483c8&style=flat" alt="mr-nobody2003" /> </p>
@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_nobody2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_nobody2003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabin-barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabin-barik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nobody_pb24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nobody_pb24" height="30" width="40" /></a>
 <a href="https://discord.gg/GXZz4dCmyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GXZz4dCmyq" height="30" width="40" /></a>
 </p>
